@@ -1,5 +1,5 @@
 # AirDraw
-HandDraw is a web-based drawing application that allows users to create, edit, and save hand-drawn sketches using an interactive canvas. The project is built using modern web technologies and provides an intuitive user experience for digital sketching.
+HandDraw is a ML Powered drawing application that allows users to create, edit, and save hand-drawn sketches using an interactive canvas. The project is optimized by OpenCV and provides an intuitive user experience for digital sketching.
 
 Features:
 
